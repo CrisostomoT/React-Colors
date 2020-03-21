@@ -1,0 +1,11 @@
+.card {
+    display: inline-block;
+    vertical-align: top;
+    margin: 10px;
+    border: 1px solid black;
+}
+
+.showColor {
+    height: 50px;
+    width: 50px;
+}
